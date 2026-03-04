@@ -1,5 +1,0 @@
-make soup
-Clean the code
-buy the painting
-new order
-we just made a default arg
